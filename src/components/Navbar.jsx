@@ -4,15 +4,15 @@ import Logo from '../assets/logo.jpeg';
 import {HiOutlineMail} from 'react-icons/hi';
 import { BsFillPersonLinesFill} from 'react-icons/bs';
 import {Link} from 'react-scroll';
-import { Container, Navbar, Nav } from 'react-bootstrap';
+//import { Container, Navbar, Nav } from 'react-bootstrap';
 
-const Navbar = () => {
+const Navbars = () => {
     const [nav, setNav] = useState(false);
     const handleClick = () => setNav(!nav);
 
     return (
         <>
-        <Navbar bg="light" expand="lg">
+        {/* <Navbar bg="light" expand="lg">
             <Container>
                 <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -23,11 +23,11 @@ const Navbar = () => {
                 </Nav>
                 </Navbar.Collapse>
             </Container>
-        </Navbar>
+        </Navbar> */}
 
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
             <div>
-                <img src={Logo} alt='log image' style={{ width: '50px' }} />
+                <img src={Logo} alt='logo' style={{ width: '50px' }} />
             </div>
             <ul className='hidden md:flex'>
                 <li>
@@ -105,4 +105,4 @@ const Navbar = () => {
     )
 }
 
-export default Navbar
+export default Navbars

@@ -17,13 +17,13 @@ const Work = () => {
                     <div style={{backgroundImage:`url(${back})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className="opacity-8 group-hover:opacity-100">
                            <span className="text-2xl font-bold text-white tracking-wider">
-                               Neighborhood
+                               Quotes-project
                            </span> 
                            <div className="pt-8 text-center">
-                               <a href="/">
-                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                               <a href="https://isaacwach.github.io/quotes-project/">
+                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live link</button>
                                </a>
-                               <a href="/">
+                               <a href="https://github.com/isaacwach/quotes-project.git">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                </a>
                            </div>
@@ -33,13 +33,13 @@ const Work = () => {
                     <div style={{backgroundImage:`url(${back})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className="opacity-8 group-hover:opacity-100">
                            <span className="text-2xl font-bold text-white tracking-wider">
-                               Neighborhood
+                               Github search
                            </span> 
                            <div className="pt-8 text-center">
-                               <a href="/">
-                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                               <a href="https://isaacwach.github.io/github-search-app/">
+                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live link</button>
                                </a>
-                               <a href="/">
+                               <a href="https://github.com/isaacwach/github-search-app.git">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                </a>
                            </div>
@@ -49,13 +49,13 @@ const Work = () => {
                     <div style={{backgroundImage:`url(${back})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className="opacity-8 group-hover:opacity-100">
                            <span className="text-2xl font-bold text-white tracking-wider">
-                               Neighborhood
+                               Insta-classic
                            </span> 
                            <div className="pt-8 text-center">
-                               <a href="/">
-                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                               <a href="https://zac-insta-connect.herokuapp.com/">
+                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live link</button>
                                </a>
-                               <a href="/">
+                               <a href="https://github.com/isaacwach/insta-classic.git">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                </a>
                            </div>
@@ -65,13 +65,13 @@ const Work = () => {
                     <div style={{backgroundImage:`url(${back})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className="opacity-8 group-hover:opacity-100">
                            <span className="text-2xl font-bold text-white tracking-wider">
-                               Neighborhood
+                               Pizza project
                            </span> 
                            <div className="pt-8 text-center">
-                               <a href="/">
-                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                               <a href="https://isaacwach.github.io/pizza-project/">
+                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live link</button>
                                </a>
-                               <a href="/">
+                               <a href="https://github.com/isaacwach/pizza-project.git">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                </a>
                            </div>
@@ -81,13 +81,13 @@ const Work = () => {
                     <div style={{backgroundImage:`url(${back})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className="opacity-8 group-hover:opacity-100">
                            <span className="text-2xl font-bold text-white tracking-wider">
-                               Neighborhood
+                               Delani-studio
                            </span> 
                            <div className="pt-8 text-center">
-                               <a href="/">
-                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                               <a href="https://isaacwach.github.io/delani-studio/">
+                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live link</button>
                                </a>
-                               <a href="/">
+                               <a href="https://github.com/isaacwach/delani-studio.git">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                </a>
                            </div>
@@ -97,13 +97,13 @@ const Work = () => {
                     <div style={{backgroundImage:`url(${back})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
                         <div className="opacity-8 group-hover:opacity-100">
                            <span className="text-2xl font-bold text-white tracking-wider">
-                               Neighborhood
+                               Digimex
                            </span> 
                            <div className="pt-8 text-center">
-                               <a href="/">
-                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                               <a href="https://isaacwach.github.io/digimex/">
+                                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live link</button>
                                </a>
-                               <a href="/">
+                               <a href="https://github.com/isaacwach/digimex.git">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                </a>
                            </div>

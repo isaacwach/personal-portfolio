@@ -4,12 +4,27 @@ import Logo from '../assets/logo.jpeg';
 import {HiOutlineMail} from 'react-icons/hi';
 import { BsFillPersonLinesFill} from 'react-icons/bs';
 import {Link} from 'react-scroll';
+import { Container, Navbar, Nav } from 'react-bootstrap';
 
 const Navbar = () => {
     const [nav, setNav] = useState(false);
     const handleClick = () => setNav(!nav);
 
     return (
+        <>
+        <Navbar bg="light" expand="lg">
+            <Container>
+                <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
+                <Nav className="me-auto">
+                    <Link href="#home">Home</Link>
+                    <Link href="#link">Link</Link>
+                </Nav>
+                </Navbar.Collapse>
+            </Container>
+        </Navbar>
+
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
             <div>
                 <img src={Logo} alt='log image' style={{ width: '50px' }} />
@@ -85,6 +100,8 @@ const Navbar = () => {
                 </ul>
             </div>
         </div>
+
+        </>
     )
 }
 

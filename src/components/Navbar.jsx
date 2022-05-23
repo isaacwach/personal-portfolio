@@ -75,25 +75,25 @@ const Navbars = () => {
                 <ul>
                     <li className='w-[160px] h[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="https://www.linkedin.com/in/isaac-wachira-b37288197/">
                             LinkedIn<FaLinkedin size={35}/>
                         </a>
                     </li>
                     <li className='w-[160px] h[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="https://github.com/isaacwach">
                             GitHub<FaGithub size={35}/>
                         </a>
                     </li>
-                    <li className='w-[160px] h[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#bde778]'>
+                    <li className='w-[160px] h[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#e778bc]'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="https://accounts.google.com/signin/v2/identifier?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FAddMailService&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F1%2FAddMailService&flowName=GlifWebSignIn&flowEntry=ServiceLogin">
                             Email<HiOutlineMail size={35}/>
                         </a>
                     </li>
-                    <li className='w-[160px] h[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#c0bebe]'>
+                    <li className='w-[160px] h[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#686666]'>
                         <a className='flex justify-between items-center w-full text-gray-300'
-                        href="/">
+                        href="https://docs.google.com/document/d/1Dyg-cSWti6LbWYxi-s5H91ofc3cnpK5M/edit">
                             Resume<BsFillPersonLinesFill size={35}/>
                         </a>
                     </li>

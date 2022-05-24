@@ -29,28 +29,28 @@ const Navbars = () => {
             <div>
                 <img src={Logo} alt='logo' style={{ width: '50px' }} />
             </div>
-            <ul className='hidden md:flex'>
-                <li>
+            <ul className='hidden md:flex text-xl'>
+                <li className='hover:border-b-4 border-pink-600'>
                 <Link to='home' smooth={true} duration={500}>
                     Home
                 </Link>
                 </li>
-                <li>
+                <li className='hover:border-b-4 border-pink-600'>
                     <Link to='about' smooth={true} duration={500}>
                         About
                     </Link>
                 </li>
-                <li>
+                <li className='hover:border-b-4 border-pink-600'>
                     <Link to='skills' smooth={true} duration={500}>
                         Skills
                     </Link>
                 </li>
-                <li>
+                <li className='hover:border-b-4 border-pink-600'>
                     <Link to='work' smooth={true} duration={500}>
                         Projects
                     </Link>
                 </li>
-                <li>
+                <li className='hover:border-b-4 border-pink-600'>
                     <Link to='contact' smooth={true} duration={500}>
                         Contact
                     </Link>

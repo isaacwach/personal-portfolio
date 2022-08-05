@@ -7,7 +7,7 @@ const Home = ()=> {
     return (
         <div name='home' className="w-full h-screen bg-[#0a192f]">
             <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-            <img className="w-[350px] h-[350px] mx-0 rounded-full" src={ISAAC} alt='Isaac' />
+            {/* <img className="w-[350px] h-[350px] mx-0 rounded-full" src={ISAAC} alt='Isaac' /> */}
                 <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6] border-t-8 border-pink-600 mt-5 pt-4">Isaac Ndirangu</h1>
                 <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">I am a Full Stack Developer</h2>
                 <p className="text-[#8892b0] text-xl">I am competent in Python and Javascript languages. Besides, I have mastered backend development using Django, and frontend using react and angular.</p>

@@ -84,10 +84,10 @@ const Work = () => {
                                Delani-studio
                            </span> 
                            <div className="pt-8 text-center">
-                               <a href="https://isaacwach.github.io/delani-studio/">
+                               <a href="https://store-center.herokuapp.com/">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live link</button>
                                </a>
-                               <a href="https://github.com/isaacwach/delani-studio.git">
+                               <a href="https://github.com/isaacwach/store-frontend.git">
                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                </a>
                            </div>

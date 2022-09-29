@@ -5,7 +5,7 @@ import ISAAC from '../assets/Isaac2.png'
 
 const Home = ()=> {
     return (
-        <div name='home' className="w-full h-screen bg-[#0a192f]">
+        <div name='home' className="w-full h-screen bg-[#0a192f] sm:pt-[300px] pt-[300px]">
             <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
                 <img className="w-[350px] h-[350px] mx-0 rounded-full" src={ISAAC} alt='Isaac' />
                 <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6] border-t-8 border-pink-600 mt-5 pt-4">Isaac Ndirangu</h1>
